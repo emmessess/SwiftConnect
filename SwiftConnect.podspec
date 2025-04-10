@@ -9,5 +9,5 @@ s.author           = { 'Your EmmEssEss' => 'sadiq.siddiqui@hotmail.com' }
 s.source           = { :git => 'https://github.com/emmessess/SwiftConnect.git', :tag => s.version.to_s }
     s.source_files     = 'SwiftConnect/**/*.{swift}'
     s.requires_arc     = true
-    s.dependency 'Alamofire', '~> 5.5.0'
+    s.dependency 'Alamofire', '~> 5.10.2'
     end
